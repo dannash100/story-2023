@@ -245,12 +245,12 @@ Out in space the discarded shell is a sail reflecting the gentle light of a sun.
       .add(dir.multiplyScalar(distance));
 
     const pos = this.particles.geometry.attributes.position;
-    this.buttom = true;
+    // this.buttom = true;
     this.data.ease = 0.01;
   }
 
   onMouseUp() {
-    this.buttom = false;
+    // this.buttom = false;
     this.data.ease = 0.05;
   }
 
