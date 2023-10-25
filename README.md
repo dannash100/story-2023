@@ -1,4 +1,7 @@
-# story-2023
+If not on phone use this link to get sum extra effects: 
+[https://dannash100.github.io/story-2023/](https://dannash100.github.io/story-2023/)
+
+# Daniel Nash story-2023
 
 Through a distorted lens
 closed-eye impressions of fluid smudges.
